@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Pepsi-landing-page/static/css/main.01bf3627.chunk.css",
+    "main.js": "/Pepsi-landing-page/static/js/main.3ec6631c.chunk.js",
+    "main.js.map": "/Pepsi-landing-page/static/js/main.3ec6631c.chunk.js.map",
+    "runtime-main.js": "/Pepsi-landing-page/static/js/runtime-main.56fb221e.js",
+    "runtime-main.js.map": "/Pepsi-landing-page/static/js/runtime-main.56fb221e.js.map",
+    "static/js/2.581ebf39.chunk.js": "/Pepsi-landing-page/static/js/2.581ebf39.chunk.js",
+    "static/js/2.581ebf39.chunk.js.map": "/Pepsi-landing-page/static/js/2.581ebf39.chunk.js.map",
+    "index.html": "/Pepsi-landing-page/index.html",
+    "static/css/main.01bf3627.chunk.css.map": "/Pepsi-landing-page/static/css/main.01bf3627.chunk.css.map",
+    "static/js/2.581ebf39.chunk.js.LICENSE.txt": "/Pepsi-landing-page/static/js/2.581ebf39.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.56fb221e.js",
+    "static/js/2.581ebf39.chunk.js",
+    "static/css/main.01bf3627.chunk.css",
+    "static/js/main.3ec6631c.chunk.js"
+  ]
+}
